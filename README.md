@@ -1,6 +1,6 @@
-# huffman ![buildpassing](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)
+# huffman ![build passing](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)
 
-Programmes de compression et décompression par codage de Huffman
+Programmes de compression et décompression par codage de Huffman en Ada
 
 
 
